@@ -5,6 +5,10 @@ $tablet: 768px;
 $laptop: 1024px;
 $desktop: 1920px;
 
+// Colors
+$black: rgba(7, 9, 40, 0.75);
+$green: rgba(79, 203, 141, 1);
+$blue: rgba(52, 86, 255, 0.75);
 
 // To convert px to rem
 @function rem($n) {
