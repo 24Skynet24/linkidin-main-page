@@ -81,6 +81,7 @@ header {
   width: 100%;
   background: rgba(255, 255, 255, 1);
   padding: rem(18);
+  margin-bottom: rem(23);
 }
 
 svg {

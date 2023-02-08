@@ -1,10 +1,11 @@
 <script setup>
 
+import UserInfo from "../components/UserInfo.vue";
 </script>
 
 <template>
-  <main>
-
+  <main class="container">
+    <user-info/>
   </main>
 </template>
 
