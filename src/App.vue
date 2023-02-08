@@ -1,3 +1,10 @@
+<script setup>
+import HeaderCmp from "./components/HeaderCmp.vue";
+</script>
+
 <template>
-  <router-view/>
+  <div id="__layout">
+    <header-cmp/>
+    <router-view/>
+  </div>
 </template>
