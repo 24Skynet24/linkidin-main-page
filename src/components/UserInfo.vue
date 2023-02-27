@@ -49,7 +49,7 @@
 
 article {
   width: rem(292);
-  height: rem(358);
+  height: rem(330);
   background: rgba(255, 255, 255, 1);
   border-radius: 32px;
   position: relative;
